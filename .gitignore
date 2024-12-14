@@ -9,6 +9,10 @@ __pycache__/
 # Kaggle folders
 .kaggle/
 
+# Model files
+runs/
+*.pt
+
 # Distribution / packaging
 .Python
 build/

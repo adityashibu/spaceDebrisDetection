@@ -1,0 +1,5 @@
+train: C:\Users\Aditya Uni\.cache\kagglehub\datasets\sadianawar\debris-detection-dataset\versions\1\debris-detection\images\train
+val: C:\Users\Aditya Uni\.cache\kagglehub\datasets\sadianawar\debris-detection-dataset\versions\1\debris-detection\images\val
+
+nc: 1 # Number of classes (adjust if you have more classes)
+names: ["debris"] # List of class names
