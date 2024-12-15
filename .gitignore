@@ -13,6 +13,9 @@ __pycache__/
 runs/
 *.pt
 
+# Dataset
+Space-debris-2/
+
 # Distribution / packaging
 .Python
 build/
